@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "cli-table3": "^0.6.5",
+    "cors": "^2.8.5",
+    "docx": "^9.3.0",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0",
+    "figlet": "^1.8.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^9.3.7",
+    "mammoth": "^1.9.0",
+    "ora": "^6.3.1",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "prompt-sync": "^4.2.0",
+    "sharp": "^0.33.5",
+    "sqlite3": "^5.1.7",
+    "tar": "^7.4.3",
+    "terminal-kit": "^3.1.2",
+    "transliteration": "^2.3.5",
+    "xlsx": "^0.18.5"
+  }
+}
